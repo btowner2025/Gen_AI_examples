@@ -1,2 +1,9 @@
 # Gen_AI_examples
- ## Image Capture
+ ## Image label generation
+After capturing thousands of images of the past 20 years it can be difficult to track down or retieve the ones you want.  There is commercial software available, such as Eagle, for annotations an labels.  However you would still have to review the images and design a tagging or labeling nomenclature stategy.
+
+This example project captures 3 different approaches.
+1. Python Scripting  
+2. Hugging Face supplied models to label the image activity 
+3. Vector Database & Index methods to capture activity (precursor for RAG)
+
