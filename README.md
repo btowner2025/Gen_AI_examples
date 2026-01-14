@@ -1,6 +1,7 @@
 # Gen_AI_examples
+Systems that derives inspiration from the provided content and uses it to create something new, can be categorized as Generative AI.  There are many models from various providers used to achieve this.
 
-## Image label generation
+## 1. Image label generation
 After capturing thousands of images of the past 20 years it can be difficult to track down or retieve the ones you want.  There is commercial software available, such as Eagle, for annotations an labels.  However you would still have to review the images and design a tagging or labeling nomenclature stategy. 
 Computer Visin Systems that can generate natural language descriptions of images.
 
